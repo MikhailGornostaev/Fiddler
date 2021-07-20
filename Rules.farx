@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2021-07-20T09:19:14.3337245+03:00" FiddlerVersion="5.0.1.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^Mw==*Y29udGFpbnM=*L2dldF9tZXRob2Q=&quot;]}" Action="[&quot;^^Nw==**cmVwbGFjZQ==*TWlzaGE=*TWFzaGE=&quot;]" Comment="Ex1" Enabled="true" />
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^Mw==*Y29udGFpbnM=*L3VzZXJfaW5mb18z&quot;]}" Action="[&quot;^^NQ==**cmVwbGFjZQ==*NDAwMA==*MTA=&quot;]" Comment="Ex2" Enabled="true" />
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^Mw==*Y29udGFpbnM=*L29iamVjdF9pbmZvXzE=&quot;]}" Action="[&quot;^^NQ==**cmVwbGFjZQ==*TWlzaGE=*VmFzeWE=&quot;,&quot;^^NQ==**cmVwbGFjZQ==*MC45Ng==*MjAy&quot;,&quot;^^NQ==**cmVwbGFjZQ==*MjAw*NQ==&quot;]" Comment="Ex3" Enabled="true" />
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^Mw==*Y29udGFpbnM=*L29iamVjdF9pbmZvXzM=&quot;]}" Action="[&quot;^^Nw==**cmVwbGFjZQ==*MTUwMA==*ZmdmZGdkZmhmZGg=&quot;]" Comment="Ex4" Enabled="true" />
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^Mw==*Y29udGFpbnM=*L29iamVjdF9pbmZvXzQ=&quot;]}" Action="[&quot;^^Ng==**c2V0**aHR0cDovLzE2Mi41NS4yMjAuNzI6NTAwNS91c2VyX2luZm9fMg==&quot;]" Comment="Ex5" Enabled="true" />
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^Mw==*Y29udGFpbnM=*L3VzZXJfaW5mb18y&quot;]}" Action="[&quot;^^NQ==**cmVwbGFjZQ==*cWFfc2FsYXJ5X2FmdGVyXzEuNV95ZWFy*cWFfc2FsYXJ5X2FmdGVyXzEuNV9tb250aA==&quot;]" Comment="Ex6" Enabled="true" />
+  </State>
+</AutoResponder>
